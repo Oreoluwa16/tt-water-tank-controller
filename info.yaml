@@ -7,7 +7,7 @@ project:
   language:     "Verilog"
   clock_hz:     0
   tiles:        "1x1"
-  top_module:   "tt_um_Oreoluwa16_water_tank"
+  top_module:   "tt_um_water_tank_controller"
   source_files:
     - "project.v"
     - "water_level_controller.v"
